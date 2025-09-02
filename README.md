@@ -1,3 +1,4 @@
+# For Demonstration purpose, we used Windows Hello , to mimic fingerprint and camera.
 # Fullstack App (Python + Vite)
 
 This project is a fullstack web application with:
